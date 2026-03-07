@@ -1,6 +1,6 @@
 # Yenis-Pereira-ML-Course-
 
-You read the data
+You read the dataset.iris
 
 Clean the date
 
