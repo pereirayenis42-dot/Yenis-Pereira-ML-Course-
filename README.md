@@ -11,8 +11,9 @@ My journey has now led me to the world of **Machine Learning**, driven by a deep
 
 ### 🧪 Labs & Hands-on Exercises
 Practical exercises focused on mastering specific tools and foundational concepts.
-*   **[Lab 1: GitHub & Environment Setup](./Labs/Lab1/)** - Setting up the workspace and learning version control basics.
-*   *Upcoming Labs will be added here...*
+*   **[Lab 1: Getting Started with GitHub and Your First Repository](./Labs/Lab1/)** - Setting up the workspace and learning version control basics.
+*   **[Lab 2: Essential Development Environment for Machine Learning](./Labs/Lab2/)** - Understanding the basic work flow of data science tools.
+*   **[Lab 3: Machine Learning Workflow and Learning Types](./Labs.Lab3)** - Build and Evaluate my First Classification Model and apply end-to-end ML process.
 
 ### 🛠 Assignments
 In-depth projects where I apply ML algorithms to solve specific problems.
