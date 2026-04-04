@@ -1,4 +1,4 @@
-# Module 1 Lab: GitHub Basics
+# Module 1 Lab: Intro to Machine Learning
 
 ## 📝 What I Did
 In this initial lab, I set up my development environment for the Classic Machine Learning course. My main tasks included:
