@@ -20,7 +20,7 @@ Through this process, I gained a deeper understanding of:
 ## 🧱 Challenges Faced
 I encountered a few roadblocks during the lab:
 1. **[Capitalization of code]:** I ran into an issue where my code was correct but the capitalization of one letter prevented my code from being properly executed. I solved it by checking the source code in the libraries and correcting the mistake by following the errors prompts.
-2. **[Conceptual Difficulty]:** It was initially hard to grasp the confusion matrix, but I overcame this by reading and searching the confusion matrix table and searching various examples of this concept.
+2. **[Confusion Matrix]:** It was initially hard to grasp the confusion matrix, but I overcame this by reading and searching the confusion matrix table and searching various examples of this concept.
 
 ## 🚀 How to Run the Code
 The code is ran through Google Collab I usually run the code with Shift + Enter, or using the run button at the side of the code window.
