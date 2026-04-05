@@ -17,7 +17,7 @@ Practical exercises focused on mastering specific tools and foundational concept
 
 ### 🛠 Assignments
 In-depth projects where I apply ML algorithms to solve specific problems.
-*   *Upcoming Assignments will be added here...*
+*   **[Midterm: Data Storytelling](./Assignments/Mid-Term/)**
 
 ---
 
