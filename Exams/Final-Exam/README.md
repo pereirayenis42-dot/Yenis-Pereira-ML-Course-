@@ -39,3 +39,26 @@ Your mission is to develop a sentiment analysis model using advanced machine lea
 * Code is well-commented and includes a logical flow.
 * Final report clearly justifies the choice of the "best" model.
 * The submission is packaged in a single, organized ZIP file 📦.
+
+---
+
+## 📖 Data Dictionary: IMDb Dataset
+The dataset contains a total of 50,000 movie reviews labeled for sentiment analysis.
+
+| Column Name 🏷️ | Description 📝 | Data Type 🔢 | Example Value 💡 |
+|---|---|---|---|
+| review | The full text of the movie review. | string | "One of the best movies I've seen..." |
+| sentiment | The target label (Positive or Negative). | string | "positive" |
+
+------------------------------
+## 📂 Dataset Details
+
+* Source: [IMDb Dataset of 50K Movie Reviews (Kaggle)](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) 🔗
+* Total Rows: 50,000 observations 📊
+* Target Distribution: Balanced (25,000 positive, 25,000 negative) ⚖️
+
+## 🛠️ Quick Setup Tip
+Since this dataset uses strings for the sentiment (e.g., "positive", "negative"), you will need to encode them into numbers before training your models:
+
+# Quick encoding for your 'Part 3: Vectorization'
+df['label'] = df['sentiment'].apply(lambda x: 1 if x == 'positive' else 0)
